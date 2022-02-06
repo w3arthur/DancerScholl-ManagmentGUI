@@ -1,2 +1,2 @@
-# DancerScholl-ManagmentGUI
+# DancerSchool-ManagmentGUI
 <img src="https://i.imgur.com/OuWh4Jv.jpg">
